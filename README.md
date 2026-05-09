@@ -1,0 +1,1 @@
+Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue. It uses Visual Odometry to operate reliably in GPS-denied environments. It detects victims from up and reports to the ground control station.
